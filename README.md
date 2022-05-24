@@ -31,7 +31,7 @@ along with functionality to sign into account for further activities. Simply cli
 This website is built with pure vanilla JavaScript along with HTML and CSS. It uses webpack as module bundler and NPM as package manager.
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://css-lang.com/)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/javascript)
 - [NPM](https://www.npmjs.com/)
 
