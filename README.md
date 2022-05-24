@@ -1,13 +1,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-<<<<<<< HEAD
   <a href="https://bankist-web-ssr.netlify.app/">
     <img src="./src/img/logo.png" alt="Logo" width="300" height="100">
-=======
-  <a href="https://bankist-web-by-pawanjs.netlify.app/">
-    <img src="./img/logo.png" alt="Logo" width="300" height="100">
->>>>>>> 4f56ab5c51e7f9f3034d1e579424ac00bbb2ae56
   </a>
 
   <h3 align="center">Bankist-web</h3>
