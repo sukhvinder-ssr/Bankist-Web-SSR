@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://bankist-web-ssr.netlify.app/">
-    <img src="./src/img/logo.png" alt="Logo" width="300" height="100">
+    <img src="./img/logo.png" alt="Logo" width="300" height="100">
   </a>
 
   <h3 align="center">Bankist-web</h3>
