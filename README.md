@@ -28,7 +28,7 @@ along with functionality to sign into account for further activities. Simply cli
 
 ### Built With
 
-This website is built with pure vanilla JavaScript along with HTML and CSS. It uses webpack as module bundler and NPM as package manager.
+This website is built with pure vanilla JavaScript along with HTML and CSS. It uses parcel as module bundler and NPM as package manager.
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
